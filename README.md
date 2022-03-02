@@ -1,6 +1,6 @@
 ### こんにちは, My name is Sandip Bhandari. 👋
 
-- 🌱 I’m currently learning unity, Node JS and Java.
+- 🌱 I’m currently learning Node JS and React.
 - 💬 Ask me about unity and android studio.
 - 📫 How to reach me: bhandarisandip882@gmail.com
 - 😄 Pronouns: He/His
