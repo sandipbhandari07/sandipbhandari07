@@ -26,7 +26,7 @@
 [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=itsmesandy) 
 
 ## 🎵 Music apps I use
-<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> 
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white")](https://open.spotify.com/user/l74zqsnogdrcza7mxoean84gk)
 
 <img src="https://github.com/sandipbhandari07/sandipbhandari07/blob/main/back12.gif" hieght="500" width="500">
 
