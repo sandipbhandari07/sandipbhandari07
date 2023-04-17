@@ -7,8 +7,8 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building App in Flutter.
-- 🌱 I’m currently learning more about Flutter.
+- 🔭 I’m currently building something for someone.
+- 🌱 I’m currently learning more about Django.
 - 🤔 I’m looking for help with HariyoTech documentation.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
