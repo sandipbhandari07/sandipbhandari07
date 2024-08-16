@@ -29,13 +29,3 @@
 
 <img src="https://github.com/sandipbhandari07/sandipbhandari07/blob/main/back12.gif" hieght="500" width="500">
 
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandipbhandari07&theme=vue"/>
-</p>
-
-## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipbhandari07&theme=vue" />
-</p>
-
