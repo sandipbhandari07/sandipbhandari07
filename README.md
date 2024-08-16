@@ -8,8 +8,7 @@
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building something for someone.
-- 🌱 I’m currently learning more about Django.
-- 🤔 I’m looking for help with HariyoTech documentation.
+- 🌱 I’m currently learning more about Flutter.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend almost 6 hours listening to songs every day.
