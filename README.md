@@ -1,31 +1,173 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Sandip Bhandari</h1>
+<table>
+  <tr>
+   <th align="right">
+       👋 Hello, I’m <strong>Sandip Bhandari</strong><br>
+       🔭 I’m currently working as a Full-Stack Mobile App Developer (Flutter)<br>
+       📱 Experienced in building cross-platform mobile applications with Flutter<br>
+       🌐 Skilled in Backend Development using Laravel (REST APIs) and Django<br>
+       🎨 Passionate about UI/UX Design and creating responsive, user-friendly interfaces<br>
+       👯 I’m open to collaborating on MERN, Laravel, WordPress, Custom APIs, and Mobile<br>
+       💬 Ask me about Mobile App Development, Web Development, APIs, UI/UX, and<br>
+       🌐 <a href="https://www.bishwas-shrestha.com.np" target="_blank">sandipbhandari07.com.np</a> / bhandarisandip882@gmail.com<br>
+       🇳🇵
+   </th>
+    <th>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNsaDJtdjR1d2Uza3pmdW1uMzN6c3kxNWNjN2xvdnAzY2kydHNibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDPxorBbvpB1Pby/giphy.gif">
+    </th>
+  </tr>
+</table>
+<hr>
 
-<img src="https://github.com/sandipbhandari07/sandipbhandari07/blob/main/back22.png">
+```javascript
+void action(String activity) {
+  print('Performing action: $activity');
+}
 
-# 💫 About Me :
-- 😄 Pronouns: He/His
-- 🔭 I’m currently building something for someone.
-- 🌱 I’m currently learning more about Flutter.
-- 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 6 hours listening to songs every day.
+void main() {
+  const name = 'Sandip Bhandari';
+  String role = 'Full-Stack Mobile App Developer';
+  String location = 'Kathmandu, Nepal';
+  String skills = 'Flutter, Laravel REST API, Django, UI/UX';
+  List<String> routine = ['learn', 'build apps', 'design UI/UX', 'code', 'sleep'];
+  bool alive = true;
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sa_and_dip/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandipbhandari07/) 
+  while (alive) {
+    for (var activity in routine) {
+      action(activity);
+      if (!alive) {
+        print('Time to rest');
+        break;
+      }
+    }
+  }
+}
 
-## 💻 Tech Stack
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+```
+<hr>
+<h4>🌐 Socials</h4>  
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sandipbhandari07/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sandip_bhandari07/)
 
+<hr>
 
-## 🛒 Apps on Store
-[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=itsmesandy) 
+<table style="width:100%; border:none;">
+  <tr style="border:none;">
+    <td valign="top" style="border:none; padding:10px;">
 
-## 🎵 Music apps I use
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white")](https://open.spotify.com/user/l74zqsnogdrcza7mxoean84gk)
+<b>📱 Mobile App Development</b>
 
-<img src="https://github.com/sandipbhandari07/sandipbhandari07/blob/main/back12.gif" hieght="500" width="500">
+- Cross-platform App Development (Flutter)
+- REST API Integration in Mobile Apps 
+- State Management & App Architecture 
+- Firebase & Backend Integration 
+- Performance Optimization & Debugging  
 
+    </td>
+
+    <td valign="top" style="border:none; padding:10px;">
+
+<b>🌐 Backend Development</b>
+
+- Laravel REST API Development (MVC Architecture) 
+- Django Backend & API Development 
+- Authentication & Authorization Systems 
+- Database Design & API Structuring 
+- Third-party API Integration 
+
+    </td>
+
+    <td valign="top" style="border:none; padding:10px;">
+
+<b>🗂 Collaboration & Productivity</b>
+
+- Google Sheets  
+- Microsoft Excel  
+- MS Word  
+- Slack  
+- Discord  
+
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<table style="width:100%; border:none;">
+  <tr style="border:none;">
+    
+  <td valign="top" style="border:none; padding:10px;">
+      <b>💻 Programming Languages</b><br><br>
+      <img src="https://skillicons.dev/icons?i=php,js,ts" />
+    </td>
+
+  <td valign="top" style="border:none; padding:10px;">
+      <b>🎨 Front-End Development</b><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,jquery,vite,figma,mui,flutter,ps,ai,canva" />
+    </td>
+
+  <td valign="top" style="border:none; padding:10px;">
+      <b>⚙️ Back-End Development</b><br><br>
+      <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,python" />
+    </td>
+
+  </tr>
+
+  <tr style="border:none;">
+
+  <td valign="top" style="border:none; padding:10px;">
+      <b>🛢️ Database Management</b><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+    </td>
+
+  <td valign="top" style="border:none; padding:10px;">
+      <b>🐳 Server & DevOps</b><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu" />
+    </td>
+
+  <td valign="top" style="border:none; padding:10px;">
+      <b>🔧 Tools & Platforms</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,notion,slack" />
+    </td>
+
+  </tr>
+</table>
+
+<hr>
+<table>
+  <tr>
+    <th>Most Used Languages</th>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut&theme=tokyonight"></td>
+  </tr>
+  <tr>
+    <th>Github Stats 🥇</th>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=gruvbox&hide_rank=true"></td>
+  </tr>
+  <tr>
+    <th>Waka time</th>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=cobalt"></td>
+  </tr>
+  <tr> 
+    <th>Tracking 2024  - June 2025 ⏲️</th>
+    <td><img src="https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg"></td>
+  </tr>
+  <tr>
+    <th>Quote of the day 🌅</th>
+    <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></td>
+  </tr>
+  <tr>
+    <th>Discord</th>
+    <td><img src="https://img.shields.io/discord/765267823252996096"><br>
+       https://discord.gg/6JQXnZhX
+    </td>
+  </tr>
+  <tr>
+    <th>Gitlab</th>
+    <td>https://gitlab.com/workmail.bishwas</td>
+  </tr>
+</table>
+
+[![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=8)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=bishwasgit&color=blueviolet)
+
+<img src="https://raw.githubusercontent.com/BishwasGit/BishwasGit/output/snake.svg" alt="Snake animation" />
