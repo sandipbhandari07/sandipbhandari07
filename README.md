@@ -1,6 +1,6 @@
 <table>
   <tr>
-   <th align="left" valign="middle">
+   <th align="left" valign="middle" style="padding:20px; width:60%; font-size:15px; line-height:1.6;">
        👋 Hello, I’m <strong>Sandip Bhandari</strong><br>
        🔭 I’m currently working as a Full-Stack Mobile App Developer (Flutter)<br>
        📱 Experienced in building cross-platform mobile applications with Flutter<br>
