@@ -30,13 +30,6 @@ void main() {
 
 ```
 
-<!-- Stats -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipbhandari07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=sandipbhandari07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sandipbhandari07&theme=dark&hide_border=false)
-
-
 <hr>
 <h4>🌐 Socials</h4>  
 
@@ -129,5 +122,14 @@ void main() {
 
 
 <hr>
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/sandipbhandari07/sandipbhandari07/blob/output/github-snake-dark.svg)
+</div>
 
-<img src="https://raw.githubusercontent.com//sandipbhandari07/sandipbhandari07/output/snake.svg" alt="Snake animation" />
+<!-- Visit Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=sandipbhandari07&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
