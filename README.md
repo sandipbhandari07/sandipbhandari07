@@ -3,6 +3,13 @@
 
 Email Me 👉 ✉️ **bhandarisandip882.com** For Collaboration/Project or Anything Else. 😊😊
 
+- 🔭 I’m currently working as a Full-Stack Mobile App Developer (Flutter)
+- 📱 Experienced in building cross-platform mobile applications with Flutter
+- 🌐 Skilled in Backend Development using Laravel (REST APIs) and Django
+- 🎨 Passionate about UI/UX Design and creating responsive interfaces
+- 👯 I’m open to collaborating on Laravel, WordPress and Mobile Apps
+- 💬 Ask me about Mobile App Development, Web Development, APIs, UI/UX
+
 
 ```dart
 void action(String activity) {
@@ -38,7 +45,6 @@ void main() {
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandipbhandari07&theme=dark">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandipbhandari07&theme=dark">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandipbhandari07&theme=dark&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=sandipbhandari07&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipbhandari07&theme=dark">
 
 </div>
