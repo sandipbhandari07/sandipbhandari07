@@ -1,16 +1,65 @@
+<table style="width:100%; border:none;">
+  <tr style="border:none;">
+   <td style="
+      padding:20px; 
+      width:60%; 
+      color:#00ffcc; 
+      font-family:monospace;
+      background-color:#0d1117;
+      border-radius:10px;
+      line-height:1.6;
+      text-align:center;          
+      vertical-align:middle;       
+    ">
+    <br>
+       👋 Hello, I’m <strong>Sandip Bhandari</strong><br>
+       🔭 I’m currently working as a Full-Stack Mobile App Developer (Flutter)<br>
+       📱 Experienced in building cross-platform mobile applications with Flutter<br>
+       🌐 Skilled in Backend Development using Laravel (REST APIs) and Django<br>
+       🎨 Passionate about UI/UX Design and creating responsive interfaces<br>
+       👯 I’m open to collaborating on Laravel, WordPress and Mobile Apps<br>
+       💬 Ask me about Mobile App Development, Web Development, APIs, UI/UX<br>
+       🌐 <a href="https://sandipbhandari07.com.np" target="_blank">sandipbhandari07.com.np</a> / bhandarisandip882@gmail.com<br>
+       <br>
+   </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+    </td>
+  </tr>
+</table>
+<hr>
 
+```dart
+void action(String activity) {
+  print('Performing action: $activity');
+}
 
+void main() {
+  const name = 'Sandip Bhandari';
+  String role = 'Full-Stack Mobile App Developer';
+  String location = 'Kathmandu, Nepal';
+  String skills = 'Flutter, Laravel REST API, Django, UI/UX';
+  List<String> routine = ['learn', 'build apps', 'design UI/UX', 'code', 'sleep'];
+  bool alive = true;
+
+  while (alive) {
+    for (var activity in routine) {
+      action(activity);
+      if (!alive) {
+        print('Time to rest');
+        break;
+      }
+    }
+  }
+}
+
+```
+
+<!-- Stats -->
 # 📊 GitHub Stats:
-
-<div align="center">
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandipbhandari07&theme=dark">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandipbhandari07&theme=dark">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandipbhandari07&theme=dark">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandipbhandari07&theme=dark">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandipbhandari07&theme=dark&utcOffset=8">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipbhandari07&theme=dark">
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipbhandari07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sandipbhandari07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sandipbhandari07&theme=dark&hide_border=false)
 
 
 <hr>
