@@ -96,43 +96,43 @@ void main() {
 <table style="width:100%; border:none;">
   <tr style="border:none;">
     
-    <td valign="top" style="border:none; padding:10px;">
+  <td valign="top" style="border:none; padding:10px;">
       <b>💻 Programming Languages</b><br><br>
       <img src="https://skillicons.dev/icons?i=dart,java,php" />
     </td>
 
-    <td valign="top" style="border:none; padding:10px;">
+  <td valign="top" style="border:none; padding:10px;">
       <b>🎨 Front-End Development</b><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,flutter,java,figma" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,flutter,java,figma,canva" />
     </td>
 
-    <td valign="top" style="border:none; padding:10px;">
+  <td valign="top" style="border:none; padding:10px;">
       <b>⚙️ Back-End Development</b><br><br>
-      <img src="https://skillicons.dev/icons?i=flutter,laravel" /><br><br>
-      <span>REST API Development</span>
+      <img src="https://skillicons.dev/icons?i=laravel,python" />
     </td>
 
   </tr>
 
   <tr style="border:none;">
 
-    <td valign="top" style="border:none; padding:10px;">
+  <td valign="top" style="border:none; padding:10px;">
       <b>🛢️ Database Management</b><br><br>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br><br>
-      <span>SQL & NoSQL</span>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" />
     </td>
 
-    <td valign="top" style="border:none; padding:10px;">
-      <!-- Removed DevOps as requested -->
+  <td valign="top" style="border:none; padding:10px;">
+      <b>🐳 Server & DevOps</b><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu" />
     </td>
 
-    <td valign="top" style="border:none; padding:10px;">
+  <td valign="top" style="border:none; padding:10px;">
       <b>🔧 Tools & Platforms</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio" />
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,androidstudio,slack" />
     </td>
 
   </tr>
 </table>
+
 
 <hr>
 
