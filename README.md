@@ -16,8 +16,8 @@
        🔭 I’m currently working as a Full-Stack Mobile App Developer (Flutter)<br>
        📱 Experienced in building cross-platform mobile applications with Flutter<br>
        🌐 Skilled in Backend Development using Laravel (REST APIs) and Django<br>
-       🎨 Passionate about UI/UX Design and creating responsive, user-friendly interfaces<br>
-       👯 I’m open to collaborating on Laravel, WordPress, Custom APIs, and Mobile<br>
+       🎨 Passionate about UI/UX Design and creating responsive interfaces<br>
+       👯 I’m open to collaborating on Laravel, WordPress and Mobile Apps<br>
        💬 Ask me about Mobile App Development, Web Development, APIs, UI/UX<br>
        🌐 <a href="https://sandipbhandari07.com.np" target="_blank">sandipbhandari07.com.np</a> / bhandarisandip882@gmail.com<br>
        <br>
