@@ -1,33 +1,8 @@
-<table style="width:100%; border:none;">
-  <tr style="border:none;">
-   <td style="
-      padding:20px; 
-      width:60%; 
-      color:#00ffcc; 
-      font-family:monospace;
-      background-color:#0d1117;
-      border-radius:10px;
-      line-height:1.6;
-      text-align:center;          
-      vertical-align:middle;       
-    ">
-    <br>
-       👋 Hello, I’m <strong>Sandip Bhandari</strong><br>
-       🔭 I’m currently working as a Full-Stack Mobile App Developer (Flutter)<br>
-       📱 Experienced in building cross-platform mobile applications with Flutter<br>
-       🌐 Skilled in Backend Development using Laravel (REST APIs) and Django<br>
-       🎨 Passionate about UI/UX Design and creating responsive interfaces<br>
-       👯 I’m open to collaborating on Laravel, WordPress and Mobile Apps<br>
-       💬 Ask me about Mobile App Development, Web Development, APIs, UI/UX<br>
-       🌐 <a href="https://sandipbhandari07.com.np" target="_blank">sandipbhandari07.com.np</a> / bhandarisandip882@gmail.com<br>
-       <br>
-   </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-    </td>
-  </tr>
-</table>
-<hr>
+# 💫 Hi 👋, I'm Sandip Bhandari
+**A passionate Mobile Developer || UI/UX Designer || Data Analyst**
+
+Email Me 👉 ✉️ **bhandarisandip882.com** For Collaboration/Project or Anything Else. 😊😊
+
 
 ```dart
 void action(String activity) {
