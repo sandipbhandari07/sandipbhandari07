@@ -1,4 +1,4 @@
-<table>
+<table style="width:100%; border:none;">
   <tr style="border:none;">
    <td valign="middle" style="
       padding:20px; 
@@ -19,7 +19,7 @@
        🌐 <a href="https://www.bishwas-shrestha.com.np" target="_blank">sandipbhandari07.com.np</a> / bhandarisandip882@gmail.com<br>
        🇳🇵
    </td>
-    <td>
+    <td align="right" valign="middle" style="padding:20px; width:40%;">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
     </td>
   </tr>
