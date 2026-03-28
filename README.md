@@ -56,11 +56,11 @@ void main() {
 ```
 
 <!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandipbhandari07&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandipbhandari07&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandipbhandari07&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipbhandari07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=sandipbhandari07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sandipbhandari07&theme=dark&hide_border=false)
+
 
 <hr>
 <h4>🌐 Socials</h4>  
