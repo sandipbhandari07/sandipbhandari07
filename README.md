@@ -114,7 +114,7 @@ void main() {
 
   <td valign="top" style="border:none; padding:10px;">
       <b>🎨 Front-End Development</b><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,flutter,java,figma,canva,wordpress" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,flutter,java,figma,wordpress" />
     </td>
 
   <td valign="top" style="border:none; padding:10px;">
