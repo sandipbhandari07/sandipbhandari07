@@ -147,4 +147,4 @@ void main() {
 
 <hr>
 
-<img src="https://raw.githubusercontent.com//sandipbhandari07/sandipbhandari07/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com//sandipbhandari07/sandipbhandari07/output/snake.svg" alt="Snake animation" />
