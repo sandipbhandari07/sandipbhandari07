@@ -1,6 +1,6 @@
 <table>
   <tr>
-   <th align="right">
+   <th align="left" valign="middle">
        👋 Hello, I’m <strong>Sandip Bhandari</strong><br>
        🔭 I’m currently working as a Full-Stack Mobile App Developer (Flutter)<br>
        📱 Experienced in building cross-platform mobile applications with Flutter<br>
