@@ -9,7 +9,7 @@
       border-radius:10px;
       line-height:1.6;
     ">
-       👋 Hello, I’m <strong>Sandip Bhandari</strong><br>
+       👋 Hello, I’m <strong>Sandip Bhandari</strong><br><br>
        🔭 I’m currently working as a Full-Stack Mobile App Developer (Flutter)<br><br>
        📱 Experienced in building cross-platform mobile applications with Flutter<br><br>
        🌐 Skilled in Backend Development using Laravel (REST APIs) and Django<br><br>
@@ -19,7 +19,7 @@
        🌐 <a href="https://www.bishwas-shrestha.com.np" target="_blank">sandipbhandari07.com.np</a> / bhandarisandip882@gmail.com<br>
        🇳🇵
    </td>
-    <td align="right" valign="middle" style="padding:20px; width:40%;">
+    <td>
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
     </td>
   </tr>
