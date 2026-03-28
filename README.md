@@ -38,7 +38,7 @@ void main() {
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandipbhandari07&theme=dark">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandipbhandari07&theme=dark">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandipbhandari07&theme=dark&utcOffset=8">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipbhandari07&theme=radical">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipbhandari07&theme=dark">
 
 
 
