@@ -1,6 +1,6 @@
 <table style="width:100%; border:none;">
   <tr style="border:none;">
-   <td valign="middle" style="
+   <td valign="center" style="
       padding:20px; 
       width:60%; 
       color:#00ffcc; 
@@ -10,14 +10,15 @@
       line-height:1.6;
     ">
     <br>
-       👋 Hello, I’m <strong>Sandip Bhandari</strong><br><br>
-       - 🔭 I’m currently working as a Full-Stack Mobile App Developer (Flutter)<br>
-       - 📱 Experienced in building cross-platform mobile applications with Flutter<br>
-       - 🌐 Skilled in Backend Development using Laravel (REST APIs) and Django<br>
-       - 🎨 Passionate about UI/UX Design and creating responsive, user-friendly interfaces<br>
-       - 👯 I’m open to collaborating on MERN, Laravel, WordPress, Custom APIs, and Mobile<br>
-       - 💬 Ask me about Mobile App Development, Web Development, APIs, UI/UX, and<br>
-       - 🌐 <a href="https://www.bishwas-shrestha.com.np" target="_blank">sandipbhandari07.com.np</a> / bhandarisandip882@gmail.com<br>
+       👋 Hello, I’m <strong>Sandip Bhandari</strong><br>
+       🔭 I’m currently working as a Full-Stack Mobile App Developer (Flutter)<br>
+       📱 Experienced in building cross-platform mobile applications with Flutter<br>
+       🌐 Skilled in Backend Development using Laravel (REST APIs) and Django<br>
+       🎨 Passionate about UI/UX Design and creating responsive, user-friendly interfaces<br>
+       👯 I’m open to collaborating on MERN, Laravel, WordPress, Custom APIs, and Mobile<br>
+       💬 Ask me about Mobile App Development, Web Development, APIs, UI/UX, and<br>
+       🌐 <a href="https://www.bishwas-shrestha.com.np" target="_blank">sandipbhandari07.com.np</a> / bhandarisandip882@gmail.com<br>
+       <br>
    </td>
     <td>
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
