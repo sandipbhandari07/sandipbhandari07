@@ -17,9 +17,9 @@
        📱 Experienced in building cross-platform mobile applications with Flutter<br>
        🌐 Skilled in Backend Development using Laravel (REST APIs) and Django<br>
        🎨 Passionate about UI/UX Design and creating responsive, user-friendly interfaces<br>
-       👯 I’m open to collaborating on MERN, Laravel, WordPress, Custom APIs, and Mobile<br>
-       💬 Ask me about Mobile App Development, Web Development, APIs, UI/UX, and<br>
-       🌐 <a href="https://www.bishwas-shrestha.com.np" target="_blank">sandipbhandari07.com.np</a> / bhandarisandip882@gmail.com<br>
+       👯 I’m open to collaborating on Laravel, WordPress, Custom APIs, and Mobile<br>
+       💬 Ask me about Mobile App Development, Web Development, APIs, UI/UX<br>
+       🌐 <a href="https://sandipbhandari07.com.np" target="_blank">sandipbhandari07.com.np</a> / bhandarisandip882@gmail.com<br>
        <br>
    </td>
     <td>
@@ -114,7 +114,7 @@ void main() {
 
   <td valign="top" style="border:none; padding:10px;">
       <b>🎨 Front-End Development</b><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,flutter,java,figma,canva" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,flutter,java,figma,canva,wordpress" />
     </td>
 
   <td valign="top" style="border:none; padding:10px;">
