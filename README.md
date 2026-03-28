@@ -1,22 +1,41 @@
-<table>
-  <tr>
-   <th align="left" valign="middle" style="padding:20px; width:60%; font-size:15px; line-height:1.6;">
-       👋 Hello, I’m <strong>Sandip Bhandari</strong><br>
-       🔭 I’m currently working as a Full-Stack Mobile App Developer (Flutter)<br>
-       📱 Experienced in building cross-platform mobile applications with Flutter<br>
-       🌐 Skilled in Backend Development using Laravel (REST APIs) and Django<br>
-       🎨 Passionate about UI/UX Design and creating responsive, user-friendly interfaces<br>
-       👯 I’m open to collaborating on MERN, Laravel, WordPress, Custom APIs, and Mobile<br>
-       💬 Ask me about Mobile App Development, Web Development, APIs, UI/UX, and<br>
-       🌐 <a href="https://www.bishwas-shrestha.com.np" target="_blank">sandipbhandari07.com.np</a> / bhandarisandip882@gmail.com<br>
-       🇳🇵
-   </th>
-    <th>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-    </th>
+<table style="width:100%; border:none;">
+  <tr style="border:none;">
+
+    <!-- TEXT WITH CODE BACKGROUND -->
+    <td valign="middle" style="
+      padding:20px; 
+      width:60%; 
+      color:#00ffcc; 
+      font-family:monospace;
+      background-color:#0d1117;
+      border-radius:10px;
+      line-height:1.6;
+    ">
+
+👋 Hello, I’m <strong>Sandip Bhandari</strong><br><br>
+
+🔭 I’m currently working as a Full-Stack Mobile App Developer (Flutter)<br>
+📱 Experienced in building cross-platform mobile applications with Flutter<br>
+🌐 Skilled in Backend Development using Laravel (REST APIs) and Django<br>
+🎨 Passionate about UI/UX Design and creating responsive interfaces<br>
+👯 Open to collaborating on MERN, Laravel, WordPress, APIs, and Mobile Apps<br>
+💬 Ask me about Mobile Apps, Web Dev, APIs, UI/UX<br><br>
+
+🌐 <a href="https://sandipbhandari07.com.np" target="_blank" style="color:#58a6ff;">sandipbhandari07.com.np</a><br>
+📧 bhandarisandip882@gmail.com<br>
+🇳🇵
+
+    </td>
+
+    <!-- GIF -->
+    <td align="right" valign="middle" style="padding:20px; width:40%;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+           width="100%" 
+           style="max-width:350px; border-radius:10px;">
+    </td>
+
   </tr>
 </table>
-<hr>
 
 ```dart
 void action(String activity) {
