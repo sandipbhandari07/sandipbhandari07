@@ -1,6 +1,6 @@
 <table style="width:100%; border:none;">
   <tr style="border:none;">
-   <td valign="center" style="
+   <td style="
       padding:20px; 
       width:60%; 
       color:#00ffcc; 
@@ -8,6 +8,8 @@
       background-color:#0d1117;
       border-radius:10px;
       line-height:1.6;
+      text-align:center;          
+      vertical-align:middle;       
     ">
     <br>
        👋 Hello, I’m <strong>Sandip Bhandari</strong><br>
