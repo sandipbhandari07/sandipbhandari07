@@ -3,6 +3,14 @@
 
 Email Me 👉 ✉️ **bhandarisandip882.com** For Collaboration/Project or Anything Else. 😊😊
 
+- 🔭 I’m currently working as a Full-Stack Mobile App Developer (Flutter)
+- 📱 Experienced in building cross-platform mobile applications with Flutter
+- 🌐 Skilled in Backend Development using Laravel (REST APIs) and Django
+- 🎨 Passionate about UI/UX Design and creating responsive interfaces
+- 👯 I’m open to collaborating on Laravel, WordPress and Mobile Apps
+- 💬 Ask me about Mobile App Development, Web Development, APIs, UI/UX
+
+
 ```dart
 void action(String activity) {
   print('Performing action: $activity');
@@ -28,7 +36,6 @@ void main() {
 }
 
 ```
-
 # 📊 GitHub Stats:
 
 <div align="center">
@@ -40,8 +47,7 @@ void main() {
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandipbhandari07&theme=dark&utcOffset=8">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipbhandari07&theme=dark">
 
-
-
+</div>
 <hr>
 <h4>🌐 Socials</h4>  
 
@@ -134,5 +140,14 @@ void main() {
 
 
 <hr>
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/sandipbhandari07/sandipbhandari07/blob/output/github-snake-dark.svg)
+</div>
 
-<img src="https://raw.githubusercontent.com//sandipbhandari07/sandipbhandari07/output/snake.svg" alt="Snake animation" />
+<!-- Visit Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=sandipbhandari07&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
