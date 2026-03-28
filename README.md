@@ -1,32 +1,3 @@
-# 💫 Hi 👋, I'm Sandip Bhandari
-**A passionate Mobile Developer || UI/UX Designer || Data Analyst**
-
-Email Me 👉 ✉️ **bhandarisandip882.com** For Collaboration/Project or Anything Else. 😊😊
-
-```dart
-void action(String activity) {
-  print('Performing action: $activity');
-}
-
-void main() {
-  const name = 'Sandip Bhandari';
-  String role = 'Full-Stack Mobile App Developer';
-  String location = 'Kathmandu, Nepal';
-  String skills = 'Flutter, Laravel REST API, Django, UI/UX';
-  List<String> routine = ['learn', 'build apps', 'design UI/UX', 'code', 'sleep'];
-  bool alive = true;
-
-  while (alive) {
-    for (var activity in routine) {
-      action(activity);
-      if (!alive) {
-        print('Time to rest');
-        break;
-      }
-    }
-  }
-}
-
 ```
 
 # 📊 GitHub Stats:
