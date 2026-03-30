@@ -43,15 +43,14 @@ void main() {
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sandipbhandari07/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sandip_bhandari07/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](YOUR_LINK)
-[![Upwork](https://img.shields.io/badge/Upwork-%236FDA44.svg?logo=upwork&logoColor=white)](YOUR_LINK)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](YOUR_LINK)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](YOUR_LINK)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=About.me&logoColor=white)](YOUR_LINK)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](YOUR_LINK)
-[![Dotabuff](https://img.shields.io/badge/Dotabuff-%23C44A2D.svg?logo=steam&logoColor=white)](YOUR_LINK)
-[![Valorant](https://img.shields.io/badge/Valorant-%23FA4454.svg?logo=riotgames&logoColor=white)](YOUR_LINK)
-[![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?logo=linktree&logoColor=white)](YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandipbhandari07/)
+[![Upwork](https://img.shields.io/badge/Upwork-%236FDA44.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e8fd70ea0305877e?mp_source=share)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/9779860311353/)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=About.me&logoColor=white)](https://sandipbhandari07.com.np/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@sandipbhandari07)
+[![Dotabuff](https://img.shields.io/badge/Dotabuff-%23C44A2D.svg?logo=steam&logoColor=white)](https://www.dotabuff.com/players/1172803135)
+[![Valorant](https://img.shields.io/badge/Valorant-%23FA4454.svg?logo=riotgames&logoColor=white)](https://tracker.gg/valorant/profile/riot/MiaKhalifa%23MiaDd/overview?platform=pc&playlist=competitive&season=9d85c932-4820-c060-09c3-668636d4df1b)
+[![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?logo=linktree&logoColor=white)](https://linktr.ee/sandipbhandari?utm_source=linktree_profile_share&ltsid=6fdd90e2-70f5-4ae2-b09b-cb1a5863d1e4)
 
 
 <hr>
