@@ -113,7 +113,7 @@ void main() {
 
   <td valign="top" style="border:none; padding:10px;">
       <b>⚙️ Back-End Development</b><br><br>
-      <img src="https://skillicons.dev/icons?i=laravel,python" />
+      <img src="https://skillicons.dev/icons?i=laravel,python,firebase" />
     </td>
 
   </tr>
