@@ -124,7 +124,6 @@ void main() {
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipbhandari07&theme=dark">
 
 </div>
-<hr>
 <h1>🌐 # Socials:</h1>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sandipbhandari07/)
