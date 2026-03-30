@@ -36,7 +36,7 @@ void main() {
 }
 
 ```
-# 📊 GitHub Stats:
+<h1>🌐 # 📊 GitHub Stats:</h1>
 
 <div align="center">
 
@@ -44,7 +44,7 @@ void main() {
 
 </div>
 <hr>
-<h1>🌐 Socials</h1>
+<h1>🌐 # Socials:</h1>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sandipbhandari07/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sandip_bhandari07/)
