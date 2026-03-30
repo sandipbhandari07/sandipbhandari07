@@ -36,6 +36,14 @@ void main() {
 }
 
 ```
+
+<h1>🌐 # Socials:</h1>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sandipbhandari07/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sandip_bhandari07/)
+
+<hr>
+
 <table style="width:100%; border:none;">
   <tr style="border:none;">
     <td valign="top" style="border:none; padding:10px;">
@@ -124,12 +132,6 @@ void main() {
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipbhandari07&theme=dark">
 
 </div>
-<h1>🌐 # Socials:</h1>
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sandipbhandari07/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sandip_bhandari07/)
-
-<hr>
 <!-- Snake Animation -->
 <div align="center">
     
