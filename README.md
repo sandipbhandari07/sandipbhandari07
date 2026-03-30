@@ -10,6 +10,7 @@ Email Me 👉 ✉️ **bhandarisandip882.com** For Collaboration/Project or Anyt
 - 👯 I’m open to collaborating on Laravel, WordPress and Mobile Apps
 - 💬 Ask me about Mobile App Development, Web Development, APIs, UI/UX
 
+<hr>
 
 ```dart
 void action(String activity) {
@@ -36,6 +37,7 @@ void main() {
 }
 
 ```
+<hr>
 
 <h1>🌐 # Socials:</h1>
 
