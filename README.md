@@ -43,6 +43,16 @@ void main() {
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sandipbhandari07/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sandip_bhandari07/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](YOUR_LINK)
+[![Upwork](https://img.shields.io/badge/Upwork-%236FDA44.svg?logo=upwork&logoColor=white)](YOUR_LINK)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](YOUR_LINK)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](YOUR_LINK)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=About.me&logoColor=white)](YOUR_LINK)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](YOUR_LINK)
+[![Dotabuff](https://img.shields.io/badge/Dotabuff-%23C44A2D.svg?logo=steam&logoColor=white)](YOUR_LINK)
+[![Valorant](https://img.shields.io/badge/Valorant-%23FA4454.svg?logo=riotgames&logoColor=white)](YOUR_LINK)
+[![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?logo=linktree&logoColor=white)](YOUR_LINK)
+
 
 <hr>
 
