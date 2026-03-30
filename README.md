@@ -131,8 +131,6 @@ void main() {
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sandip_bhandari07/)
 
 <hr>
-
-<hr>
 <!-- Snake Animation -->
 <div align="center">
     
