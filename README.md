@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sandip Bhandari
-**A passionate Mobile Developer || UI/UX Designer || Data Analyst**
+** Mobile Developer || UI/UX Designer || Data Analyst**
 
 Email Me 👉 ✉️ **bhandarisandip882.com** For Collaboration/Project or Anything Else. 😊😊
 
