@@ -141,8 +141,6 @@ void main() {
 
 <div align="center">
 
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipbhandari07&theme=dark">
-
 </div>
 <!-- Snake Animation -->
 <div align="center">
