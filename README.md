@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Sandip Bhandari
 ** Mobile Developer || UI/UX Designer || Web Developer**
 
-Email Me 👉 ✉️ **bhandarisandip882.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **bhandarisandip882@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 I’m currently working as a Full-Stack Mobile App Developer (Flutter)
 - 📱 Experienced in building cross-platform mobile applications with Flutter
