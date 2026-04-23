@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sandip Bhandari
-** Mobile Developer || UI/UX Designer || Web Developer**
+** Mobile Developer || UI/UX Designer || Web Developer **
 
 Email Me 👉 ✉️ **bhandarisandip882@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
