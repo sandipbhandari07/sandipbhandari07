@@ -22,7 +22,7 @@ void main() {
   String role = 'Full-Stack Mobile App Developer';
   String location = 'Kathmandu, Nepal';
   String skills = 'Flutter, Laravel REST API, Django, UI/UX';
-  List<String> routine = ['learn', 'build apps', 'design UI/UX', 'code', 'sleep'];
+  List<String> routine = ['learn', 'build apps', 'design UI/UX', 'code', 'gym', 'eat', 'sleep'];
   bool alive = true;
 
   while (alive) {
