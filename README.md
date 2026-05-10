@@ -87,7 +87,7 @@ void main() {
 
 - Google Sheets  
 - Microsoft Excel  
-- MS Word  
+- MS Office 
 - Slack  
 - Discord  
 
